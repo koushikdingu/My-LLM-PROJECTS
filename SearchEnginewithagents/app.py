@@ -8,7 +8,7 @@ from langchain.agents import initialize_agent,AgentType
 from langchain.callbacks import StreamlitCallbackHandler
 import os
 from dotenv import load_dotenv
-load_dotenv(dotenv_path='/Users/muralidingari/getting started/.env')
+load_dotenv(dotenv_path='/Users/muralidingari/repos/My-LLM-PROJECTS/venv')
 
 ## Arxiv and wikipedia Tools
 arxiv_wrapper=ArxivAPIWrapper(top_k_results=1, doc_content_chars_max=200)

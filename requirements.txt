@@ -1,5 +1,4 @@
-langchain-openai
-langchain
+langchain-openaicd 
 python-dotenv
 langchain-community
 langchain_core

@@ -25,3 +25,10 @@
 .vscode/
 *.sublime-project
 *.sublime-workspace
+
+
+
+**/venv/
+
+**/.venv/
+

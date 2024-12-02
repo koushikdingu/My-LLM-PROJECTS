@@ -6,7 +6,7 @@ from langchain.chains.summarize import load_summarize_chain
 from langchain_community.document_loaders import YoutubeLoader,UnstructuredURLLoader
 import os
 from dotenv import load_dotenv
-load_dotenv(dotenv_path='/Users/muralidingari/repos/My-LLM-PROJECTS/venv')
+#load_dotenv(dotenv_path='/Users/muralidingari/repos/My-LLM-PROJECTS/venv')
 
 
 ## sstreamlit APP

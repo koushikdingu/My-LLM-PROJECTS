@@ -33,3 +33,4 @@ huggingface_hub
 google-generativeai
 PyPDF2
 langchain_google_genai
+pathlib
